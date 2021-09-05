@@ -1,2 +1,2 @@
 # Szafkapolicyjna
- skrypt na szafke przerobiony szymczakovv_shops 
+ skrypt na szafke przerobiony z szymczakovv_shops 
