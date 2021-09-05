@@ -1,2 +1,2 @@
 # Szafkapolicyjna
- skrypt na szafke przerobiony fivem-shops
+ skrypt na szafke przerobiony szymczakovv_shops
